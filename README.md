@@ -50,7 +50,7 @@ Contains all verilog files (bit_width/OPACT1(2).v, MultiDesignComparison/OPACTDe
     make -j16
     cd ..
     ```
-    How to use this simulator (simulation.out -h):
+    How to use this simulator (simulation.out -h):  
    simulation.out -a exact_multiplier.blif -b approximate_multiplier.blif -f error_report_file_path
     
 
