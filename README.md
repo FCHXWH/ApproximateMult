@@ -9,7 +9,7 @@ All .h files of this project;
 ### jsoncpp-1.9.4
 The library **Jsoncpp** is used in this project;
 ### Verilog
-Contains all verilog files (bit_width/OPACT1(2).V, MultiDesignComparison/OPACTDesign1(2,3...).v) synthesized by OPACT in the experimental section of the paper.
+Contains all verilog files (bit_width/OPACT1(2).v, MultiDesignComparison/OPACTDesign1(2,3...).v) synthesized by OPACT in the experimental section of the paper.
 
 ## Prerequisities
 
